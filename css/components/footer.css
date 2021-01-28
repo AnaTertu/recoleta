@@ -3,9 +3,6 @@
     align-items: center;
     justify-content: center;
 
-    margin: 0;
-    padding-top: 0;
-
     background: #42570C;
     color: #FFFFFF;
 
@@ -15,5 +12,6 @@
     bottom: 0;
     position: fixed;
     
-    font: 10px;  
+    font: 10px; 
+    
 }
